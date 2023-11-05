@@ -1,3 +1,6 @@
+# WWW
+site/www/*
+
 # Logs
 logs
 *.log

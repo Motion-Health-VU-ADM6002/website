@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "NodeJS Server for Website development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./App/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motion-Health-VU-ADM6002/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motion-Health-VU-ADM6002/website/issues"
+  },
+  "homepage": "https://github.com/Motion-Health-VU-ADM6002/website#readme",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^4.18.2",
+    "livereload": "^0.9.3"
+  }
+}
