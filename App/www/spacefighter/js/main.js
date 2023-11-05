@@ -8,13 +8,14 @@ const config = {
 
 
 const canvas = document.getElementById("gameCanvas");
+canvas.willReadFrequently = true;
 const ctx = canvas.getContext("2d");
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const spaceship = new Image();
-spaceship.src = "../images/spaceship.png"; // Replace with the actual path to your spaceship image
+spaceship.src = "images/spaceship.png"; // Replace with the actual path to your spaceship image
 
 const spaceshipSize = {
     width: 50, // Adjust the width and height to match your image dimensions
