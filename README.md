@@ -1,5 +1,3 @@
-Certainly! Here's the expanded README with the requested additions:
-
 # Website Project Readme
 
 Welcome to the Website project repository! This document provides you with all the necessary information to get started, manage the repository, and run the project. Please follow the instructions below to set up your development environment, clone the repo, and contribute effectively.
