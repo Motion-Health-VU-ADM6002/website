@@ -9,7 +9,7 @@ Welcome to the Website project repository! This document provides you with all t
    - [Installing Node.js](#installing-nodejs)
    
 2. [Repository Setup](#repository-setup)
-   - [Cloning the Repository](#cloning-the-repo)
+   - [Cloning the Repository](#cloning-the-repository)
    - [Installing Node Modules](#installing-node-modules)
    - [Running the Application](#running-the-app)
    
